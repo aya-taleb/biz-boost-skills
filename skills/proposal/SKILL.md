@@ -46,7 +46,7 @@ Next skill: follow-up to plan the nudges after it is sent; call-prep if a review
 - **No prices yet?** Do not stop and do not guess. Write the whole proposal with
   `{{price}}` placeholders, and tell the user the fastest way to set prices: their own costs
   and competitors, or a pricing skill if they have one (for example founder-pricing from
-  biz-launch). Keep scope to what founder-context says the product does.
+  biz-ready). Keep scope to what founder-context says the product does.
 - **Not legal advice.** The "terms to check" list is a reminder of what to decide, not a
   contract. For a large deal, the user should have a lawyer or an advisor read the final terms.
 - **Drafts only.** The user sends it and signs nothing through this skill.
