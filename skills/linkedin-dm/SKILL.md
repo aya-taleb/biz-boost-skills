@@ -28,7 +28,17 @@ Find the business: a named one, else `founder/context.md`, else `~/.founder/acti
 and `~/.founder/businesses/<slug>.md`. If none exist, ask once for what the
 business sells, to whom, tone words, words to avoid, and proof, and offer founder-context.
 
-Name the business in your first line. Working files:
+Name the business in your first line.
+
+What you may use: everything under proof is cleared for use, numbers included. Only the
+items on the file's off-limits line are off limits. Don't hold back a proof item because
+it is a number or sits near an off-limits topic ("140 beta users" is proof, not a claim
+about outcomes). Every sentence in a draft traces to the business file, the lead's row or
+the user's words. No general claims about the buyer's world ("skipped lunches usually come
+down to..."), no example people, and no benefit you worked out yourself ("nothing to set
+up"). Those read as facts to the person getting them.
+
+Working files:
 - outreach log: `~/.founder/social/linkedin/<slug>/outreach.csv`
 - warm leads from comments and inbox: `~/.founder/social/linkedin/<slug>/warm-leads.csv`
 - leads from biz-boost: `sales/leads.csv` in the project, if it exists
@@ -98,6 +108,9 @@ Send it a day or so after the accept.
   "New" must be real: a fact from the business file, something the user tells you, or a
   public item with its link. Do not invent an observation ("what I've seen across our
   customers") to fill the slot. If there is nothing new, write `{{something new}}` or skip it.
+  A proof item the earlier messages did not use can be the new thing. State it as a plain
+  fact, not as news ("we now have", "since I wrote") unless the file dates it as new, and
+  add nothing around it: no reason, result or benefit the file does not state.
 - About 10 days after the first message: close the loop kindly and say you will stop.
 - Then stop. More messages cost the relationship and win almost nobody.
 

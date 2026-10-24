@@ -176,3 +176,9 @@ rounds:
 - r3: 83, worked-out months flagged; cite the page the quote came from; nothing in the reason or opening lines rests on an unconfirmed item; snippet-only names stay out of the reply too.
 - r4: 84, the next step always names a skill; opening lines sendable as written; facts from the user are labeled.
 open issues: the rubric score did not beat the start (84 vs 87, inside the noise of about 4 points) while the blind judge picked ours in all 4 judgments. My read: the quotes let the grader see small mismatches it could not see before, so the rubric got stricter at the same time the briefs got easier to check. WebFetch returns a model's reading of the page, so a "quote" is only as exact as that reading. The skill still sometimes writes "No timely hook" when a dated event exists, and an opening line can still lean on an item marked unconfirmed.
+
+## Polish round (Oct 24)
+
+linkedin-dm 0.1.1 synced from linkedin-boost-skills: proof is cleared for use, only the
+off-limits line is off limits, and follow-up 1 adds nothing the file does not state. Blind
+results are in linkedin-boost-skills/TESTING.md (won both orders on both cases).
