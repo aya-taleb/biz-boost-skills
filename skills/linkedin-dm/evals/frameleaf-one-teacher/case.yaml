@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: frameleaf-one-teacher
+expected_outcome: |
+  A sequence for one person: invite note under 200 characters with a count, referencing her post, no ask; a first message that gives before asking with a small ask; two follow-ups; written in Frameleaf's tone, no invented facts about Maria or claims about learning outcomes.
+context:
+  scaffold_script: place-files.sh

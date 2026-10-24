@@ -1,0 +1,83 @@
+{
+  "repo": "biz-boost-skills",
+  "owner": "aya-taleb",
+  "skills": [
+    {
+      "name": "lead-gen",
+      "status": "ours",
+      "version": "0.1.0",
+      "source": "written from scratch; idea thanks to Anthropic small-business lead-finder"
+    },
+    {
+      "name": "prospect-research",
+      "status": "ours",
+      "version": "0.1.0",
+      "source": "written from scratch"
+    },
+    {
+      "name": "lead-email",
+      "status": "ours",
+      "version": "0.1.0",
+      "source": "written from scratch"
+    },
+    {
+      "name": "reach-plan",
+      "status": "ours",
+      "version": "0.1.0",
+      "source": "written from scratch"
+    },
+    {
+      "name": "call-prep",
+      "status": "reworked",
+      "version": "0.1.0",
+      "source": "anthropics/knowledge-work-plugins sales/skills/call-prep (Apache 2.0)",
+      "upstream": {
+        "repo": "https://github.com/anthropics/knowledge-work-plugins",
+        "path": "sales/skills/call-prep",
+        "license": "Apache-2.0"
+      }
+    },
+    {
+      "name": "follow-up",
+      "status": "ours",
+      "version": "0.1.0",
+      "source": "written from scratch"
+    },
+    {
+      "name": "proposal",
+      "status": "ours",
+      "version": "0.1.0",
+      "source": "written from scratch"
+    },
+    {
+      "name": "local-outreach",
+      "status": "ours",
+      "version": "0.1.0",
+      "source": "written from scratch"
+    },
+    {
+      "name": "referral-asks",
+      "status": "ours",
+      "version": "0.1.0",
+      "source": "written from scratch"
+    },
+    {
+      "name": "linkedin-dm",
+      "status": "synced",
+      "home": "linkedin-boost-skills",
+      "version": "0.1.0"
+    },
+    {
+      "name": "humanize",
+      "status": "synced",
+      "home": "entrepreneur-skills",
+      "version": "0.1.0"
+    },
+    {
+      "name": "founder-context",
+      "status": "synced",
+      "home": "entrepreneur-skills",
+      "version": "0.1.0"
+    }
+  ]
+}

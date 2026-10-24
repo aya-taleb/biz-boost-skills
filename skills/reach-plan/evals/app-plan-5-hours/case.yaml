@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: app-plan-5-hours
+expected_outcome: |
+  sales/reach-plan.md fits 5 hours: one main channel and one support, with the hour math shown. Warm contacts from the bar event go first (referral-asks). Names the first leads from leads.csv (Juniper with its hiring signal, Cascade asking for an alternative). Four weekly numbers and a week-3 checkpoint. No invented benchmark reply rates. Names next skills.
+context:
+  scaffold_script: place-files.sh

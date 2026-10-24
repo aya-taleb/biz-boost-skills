@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "who in my network could introduce me to law firms",
+    "help me ask my happy customers for referrals",
+    "here's my linkedin connections csv, who can get me warm intros",
+    "write a referral ask I can text to an old coworker",
+    "how do I ask the food truck owners I work with to send me office customers",
+    "my first customers came from word of mouth, how do I get more intros"
+  ],
+  "should_not_trigger": [
+    "write a cold email to Juniper Family Law",
+    "write a LinkedIn connection request to Dana Kim",
+    "build a lead list of family law firms",
+    "set up a referral program page on my website with reward tiers and terms",
+    "who are my competitors",
+    "draft a thank you note to a customer for their payment"
+  ]
+}

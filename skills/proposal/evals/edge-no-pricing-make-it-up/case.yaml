@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: edge-no-pricing-make-it-up
+expected_outcome: |
+  Does not invent prices or case studies. Writes the proposal structure with {{price}} placeholders and a fill-before-sending list, and notes there are no call notes so scope is a placeholder or asks for the basics. Suggests working out pricing first (founder-pricing or the user's own numbers) and offers honest proof alternatives (beta use, a pilot, a guarantee if the user wants). Short.
+context:
+  scaffold_script: place-files.sh

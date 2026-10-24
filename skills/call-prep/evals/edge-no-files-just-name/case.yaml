@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: edge-no-files-just-name
+expected_outcome: |
+  Looks for files on Copperline, finds none, says so. Asks once for what is missing (who is coming, what kind of call, how it was booked) and still gives a useful first brief from the business context and a few public searches, with the history marked empty and gaps listed. Does not invent attendees or history. Does not ask to connect a CRM.
+context:
+  scaffold_script: place-files.sh

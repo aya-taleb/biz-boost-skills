@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: local-lunch-offices-from-walk-notes
+expected_outcome: |
+  A short ICP for offices (20+ people, no cafeteria, in the area). sales/leads.csv built from the walk notes, scored, with reasons. Polar Bio scored low or cut (has its own cafe) and Maple Insurance low (8 people). Brightwave Labs near the top. The coworking space treated as a channel or partner, not just a lead. Contact route is the office manager role or front desk, no invented names or emails. Unknowns marked as unknown rather than filled in. Suggests local-outreach or prospect-research next.
+context:
+  scaffold_script: place-files.sh

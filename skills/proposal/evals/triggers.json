@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "write a proposal for Juniper with 3 price options",
+    "they asked for a quote for 6 users, can you put it together",
+    "Brightwave wants pricing for company-paid Friday lunches for 110 people",
+    "turn my call notes into a proposal I can send",
+    "price this website redesign job for a local dentist, good better best",
+    "I need to send a quote by tomorrow, help"
+  ],
+  "should_not_trigger": [
+    "what should my price be for Ledgerly",
+    "review this contract the client sent me",
+    "write the recap email after my call",
+    "chase this unpaid invoice",
+    "write a grant application for SBIR",
+    "make me a pitch deck for investors"
+  ]
+}

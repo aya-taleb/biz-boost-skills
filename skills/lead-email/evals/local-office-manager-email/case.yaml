@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: local-office-manager-email
+expected_outcome: |
+  Three short drafts addressed to the office manager role, with {{name}} placeholders, a concrete physical ask (a free sample lunch drop-off on a day), the founding-seat offer stated as in the context. Footer has Nora, Curbside Lunch Club and the {{street address}} placeholder flagged as must fill before sending, plus an opt-out. Does not invent a name, menu items, prices or partner truck names. Mentions walk-in or local-outreach as a companion.
+context:
+  scaffold_script: place-files.sh

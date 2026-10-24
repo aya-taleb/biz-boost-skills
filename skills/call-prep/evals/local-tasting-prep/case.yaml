@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: local-tasting-prep
+expected_outcome: |
+  Brief for the Oct 29 12:00 tasting. Who: Kayla (office manager) and Marcus (people team lead, may attend, invited by Kayla). Open items: vegetarian and gluten-free daily, what happens when people forget to order. Promised: sample menu and founding-seat price in writing (bring them). Goal: agree a first trial week or founding seats. Questions on the Friday lunch budget, how many would sign up. No invented menu items or prices beyond the context.
+context:
+  scaffold_script: place-files.sh

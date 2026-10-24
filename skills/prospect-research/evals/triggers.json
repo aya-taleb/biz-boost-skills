@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "research Allbirds before I reach out",
+    "what do I need to know about Kestrel Health before I email their office manager",
+    "dig into my top 5 leads and find a reason to contact each one",
+    "who makes the buying call at Brightwave Labs for something like team lunches?",
+    "look up this company for me: copperlinegames.com, anything recent?",
+    "can you find a hook to reach out to Juniper Family Law now"
+  ],
+  "should_not_trigger": [
+    "build me a list of 40 law firms to target",
+    "write the cold email to Allbirds, I already have the research",
+    "who are my main competitors in AI search tools",
+    "prep me for my 2pm call with Allbirds",
+    "how big is the market for lunch delivery in Seattle",
+    "write a proposal for Brightwave with three price options"
+  ]
+}

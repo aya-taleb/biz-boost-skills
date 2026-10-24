@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "write a cold email to Dana at Juniper Family Law",
+    "draft an outreach sequence for my top 5 leads in leads.csv",
+    "can you write me a first email and two follow ups for this prospect",
+    "how should I pitch the office manager at Brightwave by email",
+    "cold email for allbirds about Rankwise, research is in sales/accounts",
+    "need an email to send to a law firm that's hiring a billing clerk"
+  ],
+  "should_not_trigger": [
+    "write a LinkedIn connection request to Dana Kim",
+    "I had a call with Juniper today, here are my notes, write the recap email",
+    "build me a list of law firms to email",
+    "what should I say when I walk into an office lobby to pitch lunches",
+    "write a proposal for Juniper with three price tiers",
+    "clean up this LinkedIn post so it doesn't sound like AI"
+  ]
+}

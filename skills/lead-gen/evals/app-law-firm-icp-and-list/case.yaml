@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: app-law-firm-icp-and-list
+expected_outcome: |
+  An ICP in sales/icp.md grounded in the customer list and competitor complaints, with evidence per trait. The Apollo export imported into sales/leads.csv, deduped (Juniper appears twice), scored with a fit_score and a fit_reason per row. The auto repair shop and the 260-person firm score low or are cut. The Canadian firm is flagged for CASL. The guessed and gmail addresses are flagged as unverified. The named reviewer from competitors.md is NOT added as a lead. Next step named (prospect-research or lead-email).
+context:
+  scaffold_script: place-files.sh

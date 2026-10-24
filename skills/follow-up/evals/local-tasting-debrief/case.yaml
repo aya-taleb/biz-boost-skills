@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: local-tasting-debrief
+expected_outcome: |
+  Debrief with two tracks: staff sign-ups (link in Monday all-staff email via Kayla) and the company-paid Friday deal (Marcus, VP approval after Nov 10). Owed: sign-up link, quote for ~110 people (placeholder price), founding seats info. Recap to Kayla and Marcus. Does not promise a dedicated gluten-free option. Nudge dated after Nov 10 for the VP decision. Next skill proposal for the Friday quote.
+context:
+  scaffold_script: place-files.sh

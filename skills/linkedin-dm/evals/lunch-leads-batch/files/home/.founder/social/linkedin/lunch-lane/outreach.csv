@@ -1,0 +1,4 @@
+date,name,company,step,next_step,next_date,note
+2026-10-12,Sam Okafor,Brightline Labs,invite,,,
+2026-10-14,Sam Okafor,Brightline Labs,accepted,message,2026-10-15,
+2026-10-15,Sam Okafor,Brightline Labs,message,follow-up-1,2026-10-19,

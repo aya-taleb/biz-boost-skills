@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "how do I get local offices to sign up for my lunch subscription",
+    "what do I say when I walk into an office lobby to pitch",
+    "write a pitch for the office manager at the building next door",
+    "I run a cleaning business, help me get more offices nearby",
+    "which local events and partners should my gym reach out to",
+    "write a flyer to leave at the front desk of nearby offices"
+  ],
+  "should_not_trigger": [
+    "build me a list of 40 law firms in Oregon to email",
+    "write an instagram post about our new lunch menu",
+    "what's the market size for lunch delivery in Seattle",
+    "write a cold email sequence for an AEO software lead",
+    "how do I set up Google Business Profile for SEO",
+    "plan my weekly instagram content for the cafe"
+  ]
+}

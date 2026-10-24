@@ -1,0 +1,11 @@
+schema_version: "1.1"
+name: app-rumor-check-opened-pages
+expected_outcome: |
+  A brief at sales/accounts/textio.md. Every fact in Snapshot, What changed lately and Who
+  decides links to a page the run actually opened (a WebFetch that returned content), and the
+  link states that fact. The user's half-remembered rumor (layoffs, a new CEO) appears as a
+  fact only if an opened page states it, with its date; otherwise it is marked not confirmed
+  under Check before you send. No headcount, funding or revenue number unless an opened page
+  states it. Gaps listed. Next skill named.
+context:
+  scaffold_script: place-files.sh

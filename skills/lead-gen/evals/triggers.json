@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "find me 30 leads for my bookkeeping app, I sell to dental offices",
+    "who should I be selling to? here's my customer export",
+    "I have an Apollo csv with 400 contacts, can you dedupe and score it against my ICP",
+    "build a prospect list of yoga studios in Austin that might want my booking tool",
+    "I need customers for my cleaning business, which companies nearby should I target",
+    "turn the complaints in mimic/ into an ideal customer profile and a list of companies"
+  ],
+  "should_not_trigger": [
+    "write a cold email to the office manager at Juniper Family Law",
+    "research Acme Corp before I reach out, what are they up to lately",
+    "prep me for my call with Harbor Family Law tomorrow at 10",
+    "I just had a call with a prospect, here are my notes, what do I send next",
+    "write a LinkedIn connection note for the managing partner at Ortega Immigration",
+    "how big is the market for legal billing software in the US"
+  ]
+}

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: local-research-office-from-leads
+expected_outcome: |
+  Brief at sales/accounts/allen-institute.md. Checks whether they have an on-site cafe or food program (a disqualifier for the ICP) and says what it found with a link, or says unknown. Who decides is a role (facilities, office or workplace team, events) labeled as inference unless a page names it. The lead is updated with a next step or research note. Suggests local-outreach or lead-email next.
+context:
+  scaffold_script: place-files.sh

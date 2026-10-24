@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: local-company-paid-fridays
+expected_outcome: |
+  Proposal with 2 to 3 options built on $15 launch price and the founding 30% off for 3 months (=$10.50), e.g. all ~110 every Friday vs a smaller opt-in group vs Fridays plus staff 5-day plans. Weekly totals computed correctly (110 x $15 = $1,650/week; founding $1,155/week). Margin noted against $9.40 cost (founding price margin is thin: $10.50 - $9.40). Headcount change and order cutoff in terms. No dedicated GF promise. Timeline after VP approval Nov 10, first deliveries December.
+context:
+  scaffold_script: place-files.sh

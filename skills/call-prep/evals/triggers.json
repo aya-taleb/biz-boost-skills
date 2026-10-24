@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "prep me for my call with Juniper on Tuesday",
+    "call prep Brightwave",
+    "I'm meeting the office manager at Kestrel Health tomorrow, get me ready",
+    "what do I need to know before my 2pm demo with Allbirds",
+    "give me discovery questions for my first call with a law firm tomorrow",
+    "I have a tasting at an office next week, help me prepare"
+  ],
+  "should_not_trigger": [
+    "I just got off the call with Juniper, here are my notes, what now",
+    "write a proposal for Brightwave",
+    "research Copperline Games",
+    "draft a cold email to Kestrel Health",
+    "schedule a meeting with Dana next week",
+    "how do I handle the objection 'we already have a lunch vendor' in general"
+  ]
+}

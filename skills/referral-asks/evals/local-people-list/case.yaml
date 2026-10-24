@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: local-people-list
+expected_outcome: |
+  Ranks Omar (partner truck, knows office regulars at Westlake), Jess (close, works in SLU), Riley (coworking), classmates (group ask), Karen (HR downtown, outside zone maybe). Texts or short messages for close people, an ask Omar can use with regulars (a card or QR at his truck), a group post for classmates. Specific asks (who handles lunches at your office). Forwardable blurb with the founding offer as stated. No invented details like Jess's company.
+context:
+  scaffold_script: place-files.sh

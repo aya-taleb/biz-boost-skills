@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: lunch-subscription-offices-plan
+expected_outcome: |
+  Files under sales/local/: targets (Brightwave first, 400 Dexter building as one stop covering three tenants, coworking space on Fairview as a partner via Riley, Polar Bio skipped for its cafe), a 20-second front desk line, an office manager pitch with a free tasting ask, emails with Nora's {{street address}} placeholder and opt-out, a building manager pitch, events only if found with links, a leave-behind with the founding seats offer as stated (50 seats, 30% off), and a 2-week route that fits 8 hours a week. Reminds to check King County health and property owner permission for tastings or lobby drops. No invented customer counts.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: local-plan-lunch-offices
+expected_outcome: |
+  A plan for a local business: in-person channels lead (walk-ins to office lobbies and office managers, building managers, coworking partners, local events), email as support. Week 1 includes building the list (lead-gen or local-outreach). 10-hour week with time math. Dated to the December launch, with a checkpoint. No invented numbers like conversion rates. Next skills: lead-gen and local-outreach.
+context:
+  scaffold_script: place-files.sh

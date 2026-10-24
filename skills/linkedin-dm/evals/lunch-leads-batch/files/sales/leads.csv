@@ -1,0 +1,8 @@
+business_slug,name,company,role,email,linkedin_url,instagram_handle,website,city,source,source_url,fit_score,fit_reason,status,last_contact,notes
+lunch-lane,Dana Ruiz,Northwind Studio,Office Manager,,https://www.linkedin.com/in/example-dana,,,Seattle,linkedin post,https://www.linkedin.com/posts/example-1,90,posted about team lunches getting skipped,new,,
+lunch-lane,Sam Okafor,Brightline Labs,People Ops Lead,,,,,Seattle,job post,https://example.com/jobs/1,80,hiring 20 people in SLU this quarter,contacted,2026-10-15,
+lunch-lane,Priya Natarajan,Cobalt Freight,Workplace Coordinator,,,,,Seattle,csv export,,70,,new,,
+lunch-lane,Lee Chen,Harbor & Pine,Office Manager,,,,,Seattle,meetup,,60,spoke at the SLU building managers meetup,do-not-contact,,asked not to be contacted
+lunch-lane,Jordan Blake,Tidewater Bank,Facilities Director,,https://www.linkedin.com/in/example-jordan,,,Seattle,news,https://example.com/news/1,80,new office opening in Denny Triangle,new,,
+frameleaf,Maria Gomez,Tacoma Elementary,2nd grade teacher,,,,,Tacoma,linkedin post,https://www.linkedin.com/posts/example-2,95,posted about making reading fun,new,,
+lunch-lane,Ana Torres,Pike Street Dental,Office Lead,,,,,Seattle,referral,,85,asked a friend about office lunch options,new,,

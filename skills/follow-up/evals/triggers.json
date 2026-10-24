@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "just got off the call with Juniper, notes below, what do I send",
+    "write the recap email from my meeting notes",
+    "the tasting went well, help me follow up with the office manager",
+    "they went quiet after the demo two weeks ago, how do I nudge them",
+    "here's the transcript of my discovery call, pull out next steps",
+    "what should my follow-up cadence be after a sales call"
+  ],
+  "should_not_trigger": [
+    "write a cold email to a new lead at Kestrel Health",
+    "prep me for my call tomorrow with Juniper",
+    "write the quote for 6 users at Juniper",
+    "follow my competitor's pricing page and tell me what changed",
+    "follow up on my unpaid invoice from September",
+    "who could introduce me to the office manager at Polar Bio"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "how should I get my first 10 customers, I have about 5 hours a week",
+    "which channel should I focus on, email or linkedin or events?",
+    "make me an outreach plan for the next month",
+    "how many cold emails a week should a solo founder send",
+    "I've got 40 leads in leads.csv, where do I start and what do I measure",
+    "it's been 3 weeks of outreach and only 1 reply, what should I change in my plan"
+  ],
+  "should_not_trigger": [
+    "write a 30 day content calendar for instagram",
+    "write the cold email for Juniper",
+    "find me more leads in Portland",
+    "what's my positioning vs competitors",
+    "prep me for tomorrow's call",
+    "what should I say when I walk into the coworking space"
+  ]
+}

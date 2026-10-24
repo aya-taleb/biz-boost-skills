@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: app-research-dtc-brand
+expected_outcome: |
+  A brief at sales/accounts/allbirds.md with what they do, recent dated news with links, a likely pain marked as inference, the role that would own AI search visibility (with a name only if found on a published page), a reason to reach out now tied to a dated linked item, and gaps listed. No invented numbers or names. Next skill named.
+context:
+  scaffold_script: place-files.sh

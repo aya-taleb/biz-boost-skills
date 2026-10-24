@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: cleaning-company-local
+expected_outcome: |
+  A local plan for a cleaning company: targets by kind (dental clinics, small law and accounting offices; building or property managers as gatekeepers; partners like office furniture or IT companies), short front desk and decider scripts tuned to dental offices (avoid patient hours), the free walk-through quote as the easy yes, Eastside Dental as the one reference allowed, from $320/month as stated, emails with Lina's real address and an opt-out. Reassuring and practical about nerves.
+context:
+  scaffold_script: place-files.sh

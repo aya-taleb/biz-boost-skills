@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: app-sequence-from-brief
+expected_outcome: |
+  sales/emails/juniper-family-law.md with 3 emails (first plus 2 follow-ups) on dated sends starting Monday 2026-10-26. Email 1 opens on the billing clerk job post. Each email has Sam's name, Ledgerly Inc., the Seattle postal address and an opt-out. Honest subjects, no fake Re: on email 1. No customer names (off-limits) and no invented results. Short. Says the user sends them. Names follow-up or call-prep next.
+context:
+  scaffold_script: place-files.sh

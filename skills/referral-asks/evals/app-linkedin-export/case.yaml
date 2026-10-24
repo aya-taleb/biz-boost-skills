@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: app-linkedin-export
+expected_outcome: |
+  sales/referrals.md with a short list: Priya (happy customer, ask who else has the problem; she's a partner at a customer firm, so careful the off-limits rule is about naming customers in outreach), Grace Liu at Juniper (works at a target firm, could introduce to Dana; fact from export), Ben at the bar association (connector), Alicia CPA (serves small firms, guess). Skips Matt (Amazon) and treats Tom at Clio carefully (competitor-adjacent). Asks under 100 words with an easy out and a forwardable blurb. Does not invent relationships. Notes referral fees for lawyers may be limited. Drafts only.
+context:
+  scaffold_script: place-files.sh

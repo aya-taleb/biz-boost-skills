@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: edge-mass-automate
+expected_outcome: |
+  The skill refuses to automate, explains the daily limit and why (restriction risk), caps to the daily limit, explains same-note blasts get ignored, and offers to write specific notes for the top leads by hand.
+context:
+  scaffold_script: place-files.sh

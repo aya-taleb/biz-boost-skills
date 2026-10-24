@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "write a connection request to this office manager I found",
+    "who should I invite on linkedin today from my leads list",
+    "draft a linkedin follow up for someone who accepted my invite last week",
+    "DM this teacher on LinkedIn about our beta",
+    "she accepted my connection, what do I say now",
+    "turn my leads.csv into linkedin outreach for today"
+  ],
+  "should_not_trigger": [
+    "write a cold email sequence to these offices",
+    "go through my linkedin inbox and tell me who to answer",
+    "reply to the comments under my post",
+    "build me a lead list of office managers in seattle",
+    "write a linkedin post about networking",
+    "triage these messages, one looks like a scam"
+  ]
+}

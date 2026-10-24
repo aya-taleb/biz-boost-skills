@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: app-quote-6-users
+expected_outcome: |
+  sales/proposals/juniper-family-law-<date>.md with 2 to 3 options from pricing.md (monthly 6 x $29 = $174; annual $290 x 6 = $1,740/yr; trust add-on $10/mo). One option under Rachel's $200/month line ($174 or $184 with trust). Import of 3 years of history included (free per pricing.md). Their words (Friday invoices, trust reconciliation). Terms to check. No invented case studies or customer names. Totals correct. Next: follow-up.
+context:
+  scaffold_script: place-files.sh

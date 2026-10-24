@@ -1,0 +1,5 @@
+{
+  "name": "biz-boost-skills",
+  "owner": {"name": "Aya Taleb", "url": "https://github.com/aya-taleb"},
+  "plugins": [{"name": "biz-boost-skills", "source": "./", "description": "Get customers as a solo founder or small local business: leads, outreach, calls, follow-ups and proposals. No CRM needed."}]
+}

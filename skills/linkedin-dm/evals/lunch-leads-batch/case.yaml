@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: lunch-leads-batch
+expected_outcome: |
+  The skill reads sales/leads.csv and the outreach log, uses the dmqueue tool, keeps only lunch-lane leads, picks Dana Ruiz and Jordan Blake (Sam is already contacted and in the log, Priya has no fit_reason, Ana has no linkedin_url, Lee is do-not-contact, Maria belongs to Frameleaf), writes invite notes under 200 characters with counts, first messages and two follow-ups, notes Sam is due a follow-up, tells the user to send by hand, and names the next skill (follow-up from biz-boost, or linkedin-plan).
+context:
+  scaffold_script: place-files.sh
