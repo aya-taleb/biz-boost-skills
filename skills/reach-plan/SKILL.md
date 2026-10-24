@@ -1,6 +1,15 @@
 ---
 name: reach-plan
-description: Makes a weekly outreach plan a solo founder can keep up: which channels to use (email, LinkedIn, phone, walk-ins, events, partners, communities), how many touches a week fit the hours they really have, which leads go first, and the few numbers to track so they know what is working by week 3. Writes sales/reach-plan.md. Use it when someone says "how should I get my first customers", "which channel should I use", "make me an outreach plan", "how many emails a week should I send", "I have 5 hours a week for sales", "where do I start with these leads", or "what should I measure". Use it before lead-email, linkedin-dm or local-outreach, and again every few weeks to adjust from results. Not a marketing or content plan.
+description: >-
+  Makes a weekly outreach plan a solo founder can keep up: which channels to use (email,
+  LinkedIn, phone, walk-ins, events, partners, communities), how many touches a week fit the
+  hours they really have, which leads go first, and the few numbers to track so they know
+  what is working by week 3. Writes sales/reach-plan.md. Use it when someone says "how
+  should I get my first customers", "which channel should I use", "make me an outreach
+  plan", "how many emails a week should I send", "I have 5 hours a week for sales", "where
+  do I start with these leads", or "what should I measure". Use it before lead-email,
+  linkedin-dm or local-outreach, and again every few weeks to adjust from results. Not a
+  marketing or content plan.
 ---
 
 # reach-plan

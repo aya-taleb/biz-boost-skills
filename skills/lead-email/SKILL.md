@@ -1,6 +1,15 @@
 ---
 name: lead-email
-description: Writes cold email drafts for one lead or a few: a first email and 2 follow-ups, built on real research about that lead, short, and legal to send (sender's physical address, a working opt-out, an honest subject). Flags GDPR, PECR or CASL when the lead is outside the US. Drafts only, the user sends. Use it when someone says "write a cold email to", "draft outreach for my top leads", "email sequence for this prospect", "how do I pitch this office manager by email", "follow-up emails for leads.csv", or "write to Acme about my product", or "I need an email to send to a prospect". Reads sales/accounts/ briefs and sales/leads.csv. Runs every draft through humanize. Not for replies after a call (use follow-up) or LinkedIn messages (use linkedin-dm).
+description: >-
+  Writes cold email drafts for one lead or a few: a first email and 2 follow-ups, built on
+  real research about that lead, short, and legal to send (sender's physical address, a
+  working opt-out, an honest subject). Flags GDPR, PECR or CASL when the lead is outside the
+  US. Drafts only, the user sends. Use it when someone says "write a cold email to", "draft
+  outreach for my top leads", "email sequence for this prospect", "how do I pitch this
+  office manager by email", "follow-up emails for leads.csv", or "write to Acme about my
+  product", or "I need an email to send to a prospect". Reads sales/accounts/ briefs and
+  sales/leads.csv. Runs every draft through humanize. Not for replies after a call (use
+  follow-up) or LinkedIn messages (use linkedin-dm).
 ---
 
 # lead-email

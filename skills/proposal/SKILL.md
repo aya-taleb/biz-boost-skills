@@ -1,6 +1,15 @@
 ---
 name: proposal
-description: Writes a short proposal or quote a small business can send: the problem in the buyer's words, what you will do, 2 to 3 price options with totals checked by a script, timeline, what is not included, and terms to check before signing. Reads pricing from founder/ (pricing.md, numbers.json, offer.md) and the call notes in sales/calls/. Use it when someone says "write a proposal", "send them a quote", "they asked for pricing", "put together three options", "price this job", "quote for 110 people", or "turn my call notes into a proposal". Works for app plans, services, catering, retainers and local jobs. Drafts only, and never invents prices: missing numbers become placeholders. Not a contract and not legal advice.
+description: >-
+  Writes a short proposal or quote a small business can send: the problem in the buyer's
+  words, what you will do, 2 to 3 price options with totals checked by a script, timeline,
+  what is not included, and terms to check before signing. Reads pricing from founder/
+  (pricing.md, numbers.json, offer.md) and the call notes in sales/calls/. Use it when
+  someone says "write a proposal", "send them a quote", "they asked for pricing", "put
+  together three options", "price this job", "quote for 110 people", or "turn my call notes
+  into a proposal". Works for app plans, services, catering, retainers and local jobs.
+  Drafts only, and never invents prices: missing numbers become placeholders. Not a contract
+  and not legal advice.
 ---
 
 # proposal
