@@ -14,7 +14,7 @@ Commands:
 
 Usage:
   python3 dmqueue.py pick  --leads sales/leads.csv --business lunch-lane --log outreach.csv \
-                           --limit 15 [--date 2026-10-23]
+                           --limit 5 [--date 2026-10-23]
   python3 dmqueue.py mark  --log outreach.csv --name "Dana Ruiz" --company "Northwind" \
                            --step invite [--leads sales/leads.csv --business lunch-lane] [--date 2026-10-23]
 
@@ -25,9 +25,9 @@ Older files with other column names still work through the aliases below.
   python3 dmqueue.py due   --log outreach.csv [--date 2026-10-23]
   python3 dmqueue.py count --text "Saw your post on ..."
 
-Daily limit: default 15. LinkedIn publishes no number. Public sources observe a ceiling of
+Daily limit: default 5, weekly stop 50. LinkedIn publishes no number. Public sources observe a ceiling of
 about 100 invites a week for most accounts (checked 2026-10-23, see
-references/limits.md). 15 a day on weekdays stays under that with room to spare.
+references/limits.md). 5 a day and 50 a week stay well under that, so each invite can be personal.
 Standard library only.
 """
 import argparse
@@ -37,8 +37,8 @@ import os
 import sys
 
 NOTE_LIMIT = 200
-DEFAULT_LIMIT = 15
-WEEKLY_CEILING = 100
+DEFAULT_LIMIT = 5
+WEEKLY_CEILING = 50
 LOG_COLUMNS = ["date", "name", "company", "step", "next_step", "next_date", "note"]
 STEPS = ["invite", "accepted", "message", "follow-up-1", "follow-up-2", "replied", "stopped"]
 NEXT = {
@@ -308,7 +308,7 @@ def main(argv=None):
     day = today(args.date)
     if args.limit > 20:
         print("warning: %d a day is above 20; accounts that send fast get restricted. "
-              "Consider 15 or fewer." % args.limit)
+              "Consider 5 to 10." % args.limit)
     rows, headers = read_csv(args.leads)
     if not rows:
         print("no leads found at %s" % args.leads)

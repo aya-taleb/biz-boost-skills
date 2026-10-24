@@ -34,7 +34,7 @@ first line and under about 140 characters.
 LinkedIn does not publish a weekly invite number. It restricts accounts that send many
 invitations in a short time, or whose invitations are often ignored or marked as spam [7].
 Vendors observe a ceiling of about 100 invitations a week for most accounts [7]. Our tools
-default to 15 a day and stop at 100 a week.
+default to 5 a day and stop at 50 a week, well under that ceiling.
 
 ## Sources
 
